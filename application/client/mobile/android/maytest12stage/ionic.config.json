@@ -1,0 +1,7 @@
+{
+  "name": "maytest12stage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
